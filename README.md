@@ -12,7 +12,7 @@
   - [ Functions ]
     - setclipboard 
 
-# - [ perhapsHub ] - Games
+# Supported Games
   - Blade Quest
     - Auto Farm
     - Mob TP
