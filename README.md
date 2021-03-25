@@ -4,4 +4,3 @@
   - Supports: Synapse X
  
  - [ Games ] 
-  - Blade Quest
