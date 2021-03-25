@@ -4,3 +4,4 @@
   - Supports: Synapse X
  
  - [ Games ] 
+  - Blade
