@@ -1,7 +1,9 @@
 # perhapsHub
 
 - [ Cross Compatibility Script ] 
-  - Supports: Synapse X
+  - Supports: 
+    - Synapse X
  
  - [ Games ] 
-   - Blade
+   - Blade Quest
+   - Arsenal
