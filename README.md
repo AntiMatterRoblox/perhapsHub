@@ -5,5 +5,5 @@
  Supports: Synapse X
  
  - [ Games ] 
- Blade Quest
- Arsenal
+  - Blade Quest
+  - Arsenal
